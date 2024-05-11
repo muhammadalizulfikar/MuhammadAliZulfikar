@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **muhammadalizulfiqkar@gmail.com**
 
-- 👯 I’m looking to collaborate on **GIS & RS related projects.**
+- 👯 I’m looking to collaborate on **RS & GIS related projects.**
 
 - 🌱 I’m learning **GIS software applications with some programming languages like C++ & Python.**
 
