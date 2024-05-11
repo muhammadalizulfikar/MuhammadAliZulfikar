@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/akadevinity" target="blank"><img src="https://img.shields.io/twitter/follow/akadevinity?logo=twitter&style=for-the-badge" alt="akadevinity" /></a> </p>
 
-- 🔭 I’m currently Student at Institute of Space Technology (IST) **BS - Remote Sensing and Geo-Information Science (RS & GIS)**
+- 🔭 I’m currently a Student at Institute of Space Technology (IST) **BS - Remote Sensing and Geo-Information Science (RS & GIS)**
 
 - 📫 How to reach me **muhammadalizulfiqkar@gmail.com**
 
