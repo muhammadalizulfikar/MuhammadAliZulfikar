@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadalizulfikar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadalizulfikar" /> </p>
 
+<p align="left"> <a href="https://twitter.com/akadevinity" target="blank"><img src="https://img.shields.io/twitter/follow/akadevinity?logo=twitter&style=for-the-badge" alt="akadevinity" /></a> </p>
+
 - 🔭 I’m currently a Student at Institute of Space Technology (IST) **BS - Remote Sensing and Geo-Information Science (RS & GIS)**
 
 - 📫 How to reach me **muhammadalizulfiqkar@gmail.com**
@@ -20,9 +22,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">GIS Softwares:</h3>
+<h3 align="left">RS & GIS Softwares:</h3>
 <p align="left">
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="ArcGIS" width="42" height="42"/>
    <img src="https://oslandia.com/wp-content/uploads/2018/10/qgis-logo_anita02-1.png" alt="QGIS" width="95" height="42"/>
-   <img src="https://www.sigotm.com/wp-content/uploads/2022/04/logo-arcmap.png" alt="ArcMap" width="40" height="40"/>
 </p>
