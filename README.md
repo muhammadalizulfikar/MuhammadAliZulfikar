@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadalizulfikar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadalizulfikar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/akadevinity" target="blank"><img src="https://img.shields.io/twitter/follow/akadevinity?logo=twitter&style=for-the-badge" alt="akadevinity" /></a> </p>
-
 - 🔭 I’m currently a Student at Institute of Space Technology (IST) **BS - Remote Sensing and Geo-Information Science (RS & GIS)**
 
 - 📫 How to reach me **muhammadalizulfiqkar@gmail.com**
@@ -24,6 +22,7 @@
 
 <h3 align="left">GIS Softwares:</h3>
 <p align="left">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="ArcGIS" width="40" height="40"/>
-   <img src="https://oslandia.com/wp-content/uploads/2018/10/qgis-logo_anita02-1.png" alt="QGIS" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="ArcGIS" width="42" height="42"/>
+   <img src="https://oslandia.com/wp-content/uploads/2018/10/qgis-logo_anita02-1.png" alt="QGIS" width="95" height="42"/>
+   <img src="https://www.sigotm.com/wp-content/uploads/2022/04/logo-arcmap.png" alt="ArcMap" width="40" height="40"/>
 </p>
