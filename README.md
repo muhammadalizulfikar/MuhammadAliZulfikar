@@ -22,6 +22,6 @@
 
 <h3 align="left">RS & GIS Softwares:</h3>
 <p align="left">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="ArcGIS" width="42" height="42"/>
-   <img src="https://oslandia.com/wp-content/uploads/2018/10/qgis-logo_anita02-1.png" alt="QGIS" width="95" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="ArcGIS" width="45" height="45"/>
+   <img src="https://i.pinimg.com/originals/63/d9/9d/63d99d08975a20177ec3057bda142801.png" alt="QGIS" width="54" height="54"/>
 </p>
