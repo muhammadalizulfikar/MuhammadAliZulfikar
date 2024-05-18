@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali </h1>
 <h3 align="center">GIS INTERN 🗺️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadalizulfikar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadalizulfikar" /> </p>
+[![](https://visitcount.itsvg.in/api?id=muhammadalizulfikar&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently a Student at Institute of Space Technology (IST) **BS - Remote Sensing and Geo-Information Science (RS & GIS)**
 
@@ -24,4 +24,17 @@
 <p align="left">
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="ArcGIS" width="45" height="45"/>
    <img src="https://i.pinimg.com/originals/63/d9/9d/63d99d08975a20177ec3057bda142801.png" alt="QGIS" width="54" height="54"/>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muhammadalizulfikar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadalizulfikar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadalizulfikar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=muhammadalizulfikar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 </p>
