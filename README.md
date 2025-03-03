@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a Student at Institute of Space Technology (IST) **BS - Remote Sensing and Geo-Information Science (RS & GIS)**
 
-- 📫 How to reach me **muhammadalizulfiqkar@gmail.com**
+- 📫 How to reach me **muhammadali123er@gmail.com**
 
 - 👯 I’m looking to collaborate on **RS & GIS related projects.**
 
